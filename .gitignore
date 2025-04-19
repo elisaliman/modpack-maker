@@ -1,0 +1,19 @@
+# OS & editor cruft
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated files
+*.mrpack
+packs/
+temp_pack/
+
+# Secrets (if you use a .env file for API keys)
+.env
+
+# If using Replit or other cloud IDEs
+.replit
+
